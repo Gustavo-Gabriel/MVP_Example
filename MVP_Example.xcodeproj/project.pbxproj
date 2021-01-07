@@ -56,6 +56,7 @@
 		F1304D4B25A79242003FE49E /* MVP_Example */ = {
 			isa = PBXGroup;
 			children = (
+				F1304D6125A7972D003FE49E /* model */,
 				F1304D4C25A79242003FE49E /* AppDelegate.swift */,
 				F1304D4E25A79242003FE49E /* SceneDelegate.swift */,
 				F1304D5025A79242003FE49E /* ViewController.swift */,
@@ -65,6 +66,13 @@
 				F1304D5A25A79243003FE49E /* Info.plist */,
 			);
 			path = MVP_Example;
+			sourceTree = "<group>";
+		};
+		F1304D6125A7972D003FE49E /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
